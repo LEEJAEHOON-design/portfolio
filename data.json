@@ -1,9 +1,9 @@
 {
   "resumeTitle": {
-    "title": "이재훈"
+    "title": "이"
   },
   "information": {
-    "name": "이재훈",
+    "name": "이",
     "contact": [
       { "id": 0, "name": "Email", "href": "ejremr@naver.com", "isEmail": true },
       { "id": 1, "name": "Github", "href": "https://github.com/LEEJAEHOON-design" }
@@ -13,7 +13,7 @@
     {
       "id": 0,
       "name": "신한카드(주)",
-      "position": "심사발급팀 사원",
+      "position": "사원",
       "period": ["2025.02", "now"],
       "description": "카드 발급, 생산관리."
     },
@@ -68,13 +68,13 @@
     },
     {
       "id": 1,
-      "name": "한국폴리텍대학 성남캠퍼스",
+      "name": "한국폴리텍대학",
       "period": ["2018.03", "2022.02"],
       "description": "2년제 졸업"
     },
     {
       "id": 2,
-      "name": "가락고등학교",
+      "name": "고등학교",
       "period": ["2015.03", "2018.02"],
       "description": "고등학교 졸업"
     }
