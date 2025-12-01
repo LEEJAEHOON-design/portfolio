@@ -8,7 +8,6 @@
 
 - **이름:** 이** (Lee)
 - **이메일:** e*****@naver.com
-- **Github:** [https://github.com/LEE**-design](https://github.com/LEE**-design)
 - **거주지:** 서울 
 
 ---
